@@ -1,0 +1,27 @@
+*{
+    font-family: 'Nova Round', cursive;
+}
+#content,#authorize-button,#signout-button {
+            display: none
+        }
+.top-head{
+    text-align: center;
+    border-radius: 20px;
+    padding: 1%;
+    margin-top: 2%;
+    margin: 2% 34%;
+}
+.navbar{
+    background-color: black;
+}
+.black-bg{
+    background-color: black;
+}
+.cyan{
+    color: #10b2b2;
+}
+.top{
+    text-align: center;
+    justify-content: center;
+
+}
